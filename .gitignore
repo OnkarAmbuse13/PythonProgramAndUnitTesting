@@ -1,0 +1,12 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.env
+.env
+*.sqlite3
+venv/
+.env.*
+
+# Ignore IDE settings
+.vscode/
+.idea/
